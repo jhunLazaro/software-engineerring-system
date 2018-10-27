@@ -27,6 +27,7 @@ An out-of-box UI solution for enterprise applications as a React boilerplate.
 [Announcing Ant Design Pro 2.0.0](https://medium.com/ant-design/beautiful-and-powerful-ant-design-pro-2-0-release-51358da5af95)
 
 ## Dental Clinic Management System
+- The dental clinic management system manage the transaction of the Dental care clinic Co.
 
 ## Translation Recruitment :loudspeaker:
 
